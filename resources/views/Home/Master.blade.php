@@ -6,12 +6,12 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 d-flex flex-column justify-content-center">
-            <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
-            <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented designers making websites with Bootstrap</h2>
+            <h1 data-aos="fade-up">Découvrez nos pains et pâtisseries artisanaux</h1>
+            <h2 data-aos="fade-up" data-aos-delay="400">Une boulangerie passionnée par la qualité et le goût</h2>
             <div data-aos="fade-up" data-aos-delay="600">
               <div class="text-center text-lg-start">
                 <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-                  <span>Get Started</span>
+                  <span>En savoir plus</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
               </div>
@@ -35,14 +35,14 @@
   
             <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
               <div class="content">
-                <h3>Who We Are</h3>
-                <h2>Expedita voluptas omnis cupiditate totam eveniet nobis sint iste. Dolores est repellat corrupti reprehenderit.</h2>
+                <h3>Qui sommes-nous ?</h3>
+                <h2>Une boulangerie artisanale au service de vos papilles</h2>
                 <p>
-                  Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+                  Chez nous, chaque pain et chaque pâtisserie sont faits avec amour et des ingrédients de qualité. Nous croyons en l'authenticité et en la tradition pour offrir des produits qui ravissent nos clients.
                 </p>
                 <div class="text-center text-lg-start">
                   <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
-                    <span>Read More</span>
+                    <span>Découvrir nos produits</span>
                     <i class="bi bi-arrow-right"></i>
                   </a>
                 </div>
@@ -64,8 +64,8 @@
         <div class="container" data-aos="fade-up">
   
           <header class="section-header">
-            <h2>Our Values</h2>
-            <p>Odit est perspiciatis laborum et dicta</p>
+            <h2>Nos valeurs</h2>
+            <p>Ce qui nous rend uniques</p>
           </header>
   
           <div class="row">
@@ -73,24 +73,24 @@
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
               <div class="box">
                 <img src="Home/assets/img/values-1.png" class="img-fluid" alt="">
-                <h3>Ad cupiditate sed est odio</h3>
-                <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
+                <h3>Qualité artisanale</h3>
+                <p>Chaque produit est fabriqué avec soin et des ingrédients sélectionnés pour leur excellence.</p>
               </div>
             </div>
   
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
               <div class="box">
                 <img src="Home/assets/img/values-2.png" class="img-fluid" alt="">
-                <h3>Voluptatem voluptatum alias</h3>
-                <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
+                <h3>Respect des traditions</h3>
+                <p>Nous perpétuons les recettes et techniques traditionnelles pour un goût authentique.</p>
               </div>
             </div>
   
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
               <div class="box">
                 <img src="Home/assets/img/values-3.png" class="img-fluid" alt="">
-                <h3>Fugit cupiditate alias nobis.</h3>
-                <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
+                <h3>Engagement local</h3>
+                <p>Nous soutenons les producteurs locaux et participons activement à la vie de notre communauté.</p>
               </div>
             </div>
   
@@ -368,8 +368,8 @@
         <div class="container" data-aos="fade-up">
   
           <header class="section-header">
-            <h2>Services</h2>
-            <p>Veritatis et dolores facere numquam et praesentium</p>
+            <h2>Nos services</h2>
+            <p>Ce que nous proposons</p>
           </header>
   
           <div class="row gy-4">
@@ -377,18 +377,18 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="service-box blue">
                 <i class="ri-discuss-line icon"></i>
-                <h3>Nesciunt Mete</h3>
-                <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-                <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+                <h3>Pains frais quotidiens</h3>
+                <p>Des pains frais cuits chaque jour pour accompagner vos repas.</p>
+                <a href="#" class="read-more"><span>En savoir plus</span> <i class="bi bi-arrow-right"></i></a>
               </div>
             </div>
   
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
               <div class="service-box orange">
                 <i class="ri-discuss-line icon"></i>
-                <h3>Eosle Commodi</h3>
-                <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-                <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+                <h3>Salon de thé</h3>
+                <p>Profitez d'un moment de détente avec nos boissons chaudes et viennoiseries.</p>
+                <a href="#" class="read-more"><span>En savoir plus</span> <i class="bi bi-arrow-right"></i></a>
               </div>
             </div>
   
@@ -1055,7 +1055,7 @@
   
           <header class="section-header">
             <h2>Contact</h2>
-            <p>Contact Us</p>
+            <p>Nous contacter</p>
           </header>
   
           <div class="row gy-4">
@@ -1073,22 +1073,22 @@
                 <div class="col-md-6">
                   <div class="info-box">
                     <i class="bi bi-telephone"></i>
-                    <h3>Call Us</h3>
-                    <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                    <h3>Appelez-nous</h3>
+                    <p>+243 843 811 449 <br>+243 821 063 908</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="info-box">
                     <i class="bi bi-envelope"></i>
-                    <h3>Email Us</h3>
-                    <p>info@example.com<br>contact@example.com</p>
+                    <h3>Email</h3>
+                    <p>contact@boulangerie.fr<br>support@boulangerie.fr</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="info-box">
                     <i class="bi bi-clock"></i>
-                    <h3>Open Hours</h3>
-                    <p>Monday - Friday<br>9:00AM - 05:00PM</p>
+                    <h3>Horaires</h3>
+                    <p>Lundi - Samedi<br>7:00 - 19:00</p>
                   </div>
                 </div>
               </div>
@@ -1120,7 +1120,7 @@
                     <div class="error-message"></div>
                     <div class="sent-message">Your message has been sent. Thank you!</div>
   
-                    <button type="submit">Send Message</button>
+                    <button type="submit">Envoyer</button>
                   </div>
   
                 </div>
