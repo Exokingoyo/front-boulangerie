@@ -6,19 +6,19 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 d-flex flex-column justify-content-center">
-            <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
-            <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented designers making websites with Bootstrap</h2>
+            <h1 data-aos="fade-up">Bienvenue dans un monde de saveurs et de savoir.</h1>
+            <h2 data-aos="fade-up" data-aos-delay="400">Notre équipe de boulangers qualifiés vous propose une gamme raffinée de pains et de pâtisseries élaborés avec savoir-faire et passion.</h2>
             <div data-aos="fade-up" data-aos-delay="600">
               <div class="text-center text-lg-start">
                 <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-                  <span>Get Started</span>
+                  <span>En avant</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
               </div>
             </div>
           </div>
           <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-            <img src="Home/assets/img/hero-img.png" class="img-fluid" alt="">
+            <img src="Home/assets/img/pain_coupe.png" class="img-fluid" alt="">
           </div>
         </div>
       </div>
@@ -35,14 +35,14 @@
   
             <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
               <div class="content">
-                <h3>Who We Are</h3>
-                <h2>Expedita voluptas omnis cupiditate totam eveniet nobis sint iste. Dolores est repellat corrupti reprehenderit.</h2>
+                <h3>Qui sommes-nous ?</h3>
+                <h2>Nous Nous sommes la Boulangerie Notre Dame de Bon Secours !</h2>
                 <p>
-                  Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+                  Notre équipe de boulangers et pâtissiers met tout son savoir-faire au service de votre gourmandise. Du pain croustillant sorti du four aux viennoiseries dorées à souhait, en passant par des pâtisseries artisanales généreuses, chaque produit est préparé avec des ingrédients de qualité, dans le respect des traditions.
                 </p>
                 <div class="text-center text-lg-start">
                   <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
-                    <span>Read More</span>
+                    <span>En savoir plus</span>
                     <i class="bi bi-arrow-right"></i>
                   </a>
                 </div>
@@ -58,48 +58,7 @@
   
       </section><!-- End About Section -->
   
-      <!-- ======= Values Section ======= -->
-      <section id="values" class="values">
-  
-        <div class="container" data-aos="fade-up">
-  
-          <header class="section-header">
-            <h2>Our Values</h2>
-            <p>Odit est perspiciatis laborum et dicta</p>
-          </header>
-  
-          <div class="row">
-  
-            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-              <div class="box">
-                <img src="Home/assets/img/values-1.png" class="img-fluid" alt="">
-                <h3>Ad cupiditate sed est odio</h3>
-                <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p>
-              </div>
-            </div>
-  
-            <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
-              <div class="box">
-                <img src="Home/assets/img/values-2.png" class="img-fluid" alt="">
-                <h3>Voluptatem voluptatum alias</h3>
-                <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p>
-              </div>
-            </div>
-  
-            <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
-              <div class="box">
-                <img src="Home/assets/img/values-3.png" class="img-fluid" alt="">
-                <h3>Fugit cupiditate alias nobis.</h3>
-                <p>Quam rem vitae est autem molestias explicabo debitis sint. Vero aliquid quidem commodi.</p>
-              </div>
-            </div>
-  
-          </div>
-  
-        </div>
-  
-      </section><!-- End Values Section -->
-  
+      
       <!-- ======= Counts Section ======= -->
       <section id="counts" class="counts">
         <div class="container" data-aos="fade-up">
@@ -151,259 +110,50 @@
         </div>
       </section><!-- End Counts Section -->
   
-      <!-- ======= Features Section ======= -->
-      <section id="features" class="features">
-  
-        <div class="container" data-aos="fade-up">
-  
-          <header class="section-header">
-            <h2>Features</h2>
-            <p>Laboriosam et omnis fuga quis dolor direda fara</p>
-          </header>
-  
-          <div class="row">
-  
-            <div class="col-lg-6">
-              <img src="Home/assets/img/features.png" class="img-fluid" alt="">
-            </div>
-  
-            <div class="col-lg-6 mt-5 mt-lg-0 d-flex">
-              <div class="row align-self-center gy-4">
-  
-                <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
-                  <div class="feature-box d-flex align-items-center">
-                    <i class="bi bi-check"></i>
-                    <h3>Eos aspernatur rem</h3>
-                  </div>
-                </div>
-  
-                <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
-                  <div class="feature-box d-flex align-items-center">
-                    <i class="bi bi-check"></i>
-                    <h3>Facilis neque ipsa</h3>
-                  </div>
-                </div>
-  
-                <div class="col-md-6" data-aos="zoom-out" data-aos-delay="400">
-                  <div class="feature-box d-flex align-items-center">
-                    <i class="bi bi-check"></i>
-                    <h3>Volup amet voluptas</h3>
-                  </div>
-                </div>
-  
-                <div class="col-md-6" data-aos="zoom-out" data-aos-delay="500">
-                  <div class="feature-box d-flex align-items-center">
-                    <i class="bi bi-check"></i>
-                    <h3>Rerum omnis sint</h3>
-                  </div>
-                </div>
-  
-                <div class="col-md-6" data-aos="zoom-out" data-aos-delay="600">
-                  <div class="feature-box d-flex align-items-center">
-                    <i class="bi bi-check"></i>
-                    <h3>Alias possimus</h3>
-                  </div>
-                </div>
-  
-                <div class="col-md-6" data-aos="zoom-out" data-aos-delay="700">
-                  <div class="feature-box d-flex align-items-center">
-                    <i class="bi bi-check"></i>
-                    <h3>Repellendus mollitia</h3>
-                  </div>
-                </div>
-  
-              </div>
-            </div>
-  
-          </div> <!-- / row -->
-  
-          <!-- Feature Tabs -->
-          <div class="row feture-tabs" data-aos="fade-up">
-            <div class="col-lg-6">
-              <h3>Neque officiis dolore maiores et exercitationem quae est seda lidera pat claero</h3>
-  
-              <!-- Tabs -->
-              <ul class="nav nav-pills mb-3">
-                <li>
-                  <a class="nav-link active" data-bs-toggle="pill" href="#tab1">Saepe fuga</a>
-                </li>
-                <li>
-                  <a class="nav-link" data-bs-toggle="pill" href="#tab2">Voluptates</a>
-                </li>
-                <li>
-                  <a class="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a>
-                </li>
-              </ul><!-- End Tabs -->
-  
-              <!-- Tab Content -->
-              <div class="tab-content">
-  
-                <div class="tab-pane fade show active" id="tab1">
-                  <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
-                  <div class="d-flex align-items-center mb-2">
-                    <i class="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
-                  </div>
-                  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-                  <div class="d-flex align-items-center mb-2">
-                    <i class="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
-                  </div>
-                  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-                </div><!-- End Tab 1 Content -->
-  
-                <div class="tab-pane fade show" id="tab2">
-                  <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
-                  <div class="d-flex align-items-center mb-2">
-                    <i class="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
-                  </div>
-                  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-                  <div class="d-flex align-items-center mb-2">
-                    <i class="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
-                  </div>
-                  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-                </div><!-- End Tab 2 Content -->
-  
-                <div class="tab-pane fade show" id="tab3">
-                  <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
-                  <div class="d-flex align-items-center mb-2">
-                    <i class="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
-                  </div>
-                  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-                  <div class="d-flex align-items-center mb-2">
-                    <i class="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
-                  </div>
-                  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-                </div><!-- End Tab 3 Content -->
-  
-              </div>
-  
-            </div>
-  
-            <div class="col-lg-6">
-              <img src="Home/assets/img/features-2.png" class="img-fluid" alt="">
-            </div>
-  
-          </div><!-- End Feature Tabs -->
-  
-          <!-- Feature Icons -->
-          <div class="row feature-icons" data-aos="fade-up">
-            <h3>Ratione mollitia eos ab laudantium rerum beatae quo</h3>
-  
-            <div class="row">
-  
-              <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-                <img src="Home/assets/img/features-3.png" class="img-fluid p-4" alt="">
-              </div>
-  
-              <div class="col-xl-8 d-flex content">
-                <div class="row align-self-center gy-4">
-  
-                  <div class="col-md-6 icon-box" data-aos="fade-up">
-                    <i class="ri-line-chart-line"></i>
-                    <div>
-                      <h4>Corporis voluptates sit</h4>
-                      <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                    </div>
-                  </div>
-  
-                  <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                    <i class="ri-stack-line"></i>
-                    <div>
-                      <h4>Ullamco laboris nisi</h4>
-                      <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                    </div>
-                  </div>
-  
-                  <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                    <i class="ri-brush-4-line"></i>
-                    <div>
-                      <h4>Labore consequatur</h4>
-                      <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                    </div>
-                  </div>
-  
-                  <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                    <i class="ri-magic-line"></i>
-                    <div>
-                      <h4>Beatae veritatis</h4>
-                      <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-                    </div>
-                  </div>
-  
-                  <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-                    <i class="ri-command-line"></i>
-                    <div>
-                      <h4>Molestiae dolor</h4>
-                      <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
-                    </div>
-                  </div>
-  
-                  <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-                    <i class="ri-radar-line"></i>
-                    <div>
-                      <h4>Explicabo consectetur</h4>
-                      <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
-                    </div>
-                  </div>
-  
-                </div>
-              </div>
-  
-            </div>
-  
-          </div><!-- End Feature Icons -->
-  
-        </div>
-  
-      </section><!-- End Features Section -->
-  
       <!-- ======= Services Section ======= -->
       <section id="services" class="services">
   
         <div class="container" data-aos="fade-up">
   
-          <header class="section-header">
+          z<header class="section-header">
             <h2>Services</h2>
-            <p>Veritatis et dolores facere numquam et praesentium</p>
+            <p>Ce que nous faisons de meilleur</p>
           </header>
   
           <div class="row gy-4">
   
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="service-box blue">
-                <i class="ri-discuss-line icon"></i>
-                <h3>Nesciunt Mete</h3>
-                <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+                <i class="ri-store-fill icon"></i>
+                <h3>Pain français (pain long)</h3>
+                <p>Le grand classique de la table congolaise. Sa croûte dorée et croustillante cache une mie tendre et aérée. Idéal pour accompagner tout type de repas, du matin au soir.</p>
                 <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
               </div>
             </div>
   
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
               <div class="service-box orange">
-                <i class="ri-discuss-line icon"></i>
-                <h3>Eosle Commodi</h3>
-                <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+                <i class="ri-store-fill icon"></i>
+                <h3>Pain rond (pain de ménage)</h3>
+                <p>Un pain familial à la mie dense, parfait pour le thé ou le petit-déjeuner. Il reste moelleux plusieurs jours et se marie aussi bien avec du sucré que du salé.</p>
                 <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
               </div>
             </div>
   
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
               <div class="service-box green">
-                <i class="ri-discuss-line icon"></i>
-                <h3>Ledo Markt</h3>
-                <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+                <i class="ri-store-fill icon"></i>
+                <h3>Cake nature ou au raisin</h3>
+                <p>Délicatement parfumé à la vanille ou enrichi de raisins secs, le cake est une douceur intemporelle, moelleuse et gourmande, parfaite à tout moment de la journée.
+
+</p>
                 <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
               </div>
             </div>
   
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
               <div class="service-box red">
-                <i class="ri-discuss-line icon"></i>
+                <i class="ri-store-fill icon"></i>
                 <h3>Asperiores Commodi</h3>
                 <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
                 <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
@@ -412,7 +162,7 @@
   
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
               <div class="service-box purple">
-                <i class="ri-discuss-line icon"></i>
+                <i class="ri-store-fill icon"></i>
                 <h3>Velit Doloremque.</h3>
                 <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
                 <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
@@ -421,7 +171,7 @@
   
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
               <div class="service-box pink">
-                <i class="ri-discuss-line icon"></i>
+                <i class="ri-store-fill icon"></i>
                 <h3>Dolori Architecto</h3>
                 <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
                 <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
